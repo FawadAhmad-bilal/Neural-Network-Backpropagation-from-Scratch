@@ -89,4 +89,3 @@ for i in range(eposch):
   print('Epoch - ',i+1,'Loss - ',np.array(loss).mean())
 parameters
 
-
